@@ -64,3 +64,7 @@ ul {
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
+
+.all-pictures {
+  box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
